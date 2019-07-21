@@ -1,0 +1,60 @@
+input[type=text], textarea
+{
+    width: 50vw;
+    background-color: #efefef;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    outline: none;
+    margin-top: 10px;
+    text-align: center;
+}
+input[name = opis]{
+    height: 50vh;
+}
+input[name = opdl]{
+    height: 100vh;
+}
+
+input[type=submit][name=submit]
+{
+    width: 300;
+    font-size:20px;
+    color: white;
+    padding: 15px 10px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    outline: none;
+    background-color: #cc9900;
+}
+
+
+input[type=submit][name=submit]:hover
+                                        {
+                                            background-color:  #e6ac00;
+                                        }
+
+div.center {
+    margin-top: 5vh;
+    margin-left: 15vw;
+    background-color: white;
+    width: 70vw;
+    padding: 50px;
+    margin-right: auto;
+    box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+}
+div.inside{
+    padding: 30px 0;
+    text-align: center;
+}
+
+#preview img{
+    width: 80%;
+    height: 60%;
+}
+

@@ -1,0 +1,13 @@
+# www.robotstxt.org/
+
+# Allow crawling of all content
+User-agent: *
+Disallow:
+
+navbar.php
+fetch.php
+sider.php
+profileimg.php
+removetab.php
+cards.php
+show_user_img.php

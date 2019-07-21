@@ -1,0 +1,167 @@
+body{
+    ;
+}
+
+h1{
+    margin-top: 2%;
+    width: 100%;
+    text-align: center;
+    color: #428c42;
+}
+
+.main{
+    margin-left: 2vw;
+    width: 96vw;
+    box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+    margin-bottom: 4vh;
+}
+
+.comments img{
+    transform: translate(-20%, 35%);
+}
+
+.comments img:hover{
+    transform: scale(1.4)translate(-10%, 25%);
+}
+
+.secbox{
+
+    box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+     margin-bottom: 4vh;
+     background-color: darkolivegreen;
+    margin-right: 4vw;
+    border-radius: 20px;
+ }
+.one{
+    float: right;
+    width: 44vw;
+}
+
+
+.kont{
+    /*padding: 1vw;*/
+
+}
+
+section {
+    color: white;
+    width: 44vw;
+    float: left;
+    margin-left: 4vw;
+    text-align: center;
+    border-radius: 20px;
+
+
+}
+
+article{
+    box-shadow: 3px 3px 30px 5px rgba(204,204,204,0.9);
+    padding: 2vw;
+    background-color: darkolivegreen;
+    border-radius: 20px;
+
+}
+
+@media screen and (max-width: 900px) {
+    .secbox{
+        width: 94vw;
+        border-radius: 20px;
+        margin-left: 2vw;
+        margin-bottom: 2vh;
+        float: none;
+    }
+    section{
+        width: 94vw;
+        margin-left: 2vw;
+        margin-bottom: 2vw;
+        float: none;
+    }
+}
+
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+textarea
+{
+    box-shadow: 0px 0px 10px 2px rgba(204,204,204,0.9);
+    border: 2px solid #a5cda5;
+    background-color: #e9f3e9;
+    color: #428c42;
+    height: 20vh;
+    margin-left: 1%;
+    width: 98%;
+    overflow:auto;
+    border-radius: 10px;
+}
+
+.comments{
+    padding: 10px;
+    margin-left: 8%;
+    height: auto;
+    color: #efefef;
+
+}
+.box{
+    color: black;
+    padding: 2vw;
+    margin-left: 8vw;
+    background-color: darkseagreen;
+    border-radius: 30px;
+    overflow: hidden;
+    width: 90%;
+    margin-top: -2vh;
+}
+.secbox input[name=send]
+{
+    width: 90%;
+    font-size:20px;
+    margin-left: 5%;
+    color: white;
+    background-color: darkgreen;
+    padding: 15px 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    outline: none;
+    margin-bottom: 1vw;
+}
+
+.secbox input[name=send]:hover{
+    background-color: green;
+}
+
+.secbox input[name=nsend]{
+    background-color: #666666;
+    width: 100%;
+    font-size:20px;
+    color: black;
+    padding: 15px 10px;
+    margin-top: 1vw;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    letter-spacing: 2px;
+    outline: none;
+}
+
+form p{
+    text-align: center;
+    background-color: crimson;
+    border-radius: 8px;
+    margin-bottom: 1vw;
+}
+
+::placeholder{
+    text-align: center;
+    margin-top: ;
+}
+
+@media screen and (min-width: 600px) {
+    .box{
+        margin-left: 2vw;
+    }
+}
