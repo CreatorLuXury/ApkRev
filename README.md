@@ -5,7 +5,7 @@ Projekt based od PHP and SQL
 
 Bootstrap included
 
-###main features:
+##Main features:
 - posts (add post, remove post, edit post)
 - comment section for each post
 - every site is loaded from database and filled into template
