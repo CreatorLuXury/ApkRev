@@ -13,3 +13,5 @@ Bootstrap included
 - admin panel and admin user
 
 ![Screenshot](https://github.com/CreatorLuXury/ApkRev/blob/master/img/zad1.png)
+![Comment Section](https://github.com/CreatorLuXury/ApkRev/blob/master/img/screen2.png)
+![login panel](https://github.com/CreatorLuXury/ApkRev/blob/master/img/screen3.png)
