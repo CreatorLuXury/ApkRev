@@ -12,4 +12,4 @@ Bootstrap included
 - user profiles, (registration, profile avatar and nickname)
 - admin panel and admin user
 
-[Screenshot]
+[Screenshot](https://github.com/CreatorLuXury/ApkRev/blob/master/img/zad1.png)
