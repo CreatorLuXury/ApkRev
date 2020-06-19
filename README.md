@@ -11,3 +11,5 @@ Bootstrap included
 - every site is loaded from database and filled into template
 - user profiles, (registration, profile avatar and nickname)
 - admin panel and admin user
+
+[Screenshot]
